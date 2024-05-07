@@ -1,6 +1,6 @@
-# Anyssh Release
+# Shell360 Release
 
-This repository is mainly used to release versions of anysh， You can download the latest version [here](https://github.com/anyssh/release/releases). Anyssh is a cross-platform SSH client.
+This repository is mainly used to release versions of anysh， You can download the latest version [here](https://github.com/shell360/release/releases). Shell360 is a cross-platform SSH client.
 
 ## Features
 
