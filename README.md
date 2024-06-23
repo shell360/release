@@ -50,42 +50,24 @@ This repository is mainly used to release versions of anysh， You can download 
 
 ### Hosts
 
-- Main page
-  ![hosts](./screenshots/mobile/hosts.png)
-
-- Add host
-  ![addHost](./screenshots/mobile/addHost.png)
+| Mainpage                                 | Add host                                     |
+| ---------------------------------------- | -------------------------------------------- |
+| ![hosts](./screenshots/mobile/hosts.png) | ![addHost](./screenshots/mobile/addHost.png) |
 
 ### Keys
 
-- Main page
-  ![keys](./screenshots/mobile/keys.png)
+| Mainpage                               | Add key                                    | Generate key                                         |
+| -------------------------------------- | ------------------------------------------ | ---------------------------------------------------- |
+| ![keys](./screenshots/mobile/keys.png) | ![addKey](./screenshots/mobile/addKey.png) | ![generateKey](./screenshots/mobile/generateKey.png) |
 
-- Add key
-  ![addKey](./screenshots/mobile/addKey.png)
+### Known hosts & SSH
 
-- Generate key
-  ![generateKey](./screenshots/mobile/generateKey.png)
+| Known hosts                                        | SSH connecting                       | SSH terminal                                   |
+| -------------------------------------------------- | ------------------------------------ | ---------------------------------------------- |
+| ![knownhosts](./screenshots/mobile/knownhosts.png) | ![ssh](./screenshots/mobile/ssh.png) | ![terminal](./screenshots/mobile/terminal.png) |
 
-### Known hosts
+### Settings & IAP
 
-- Main page
-  ![knownhosts](./screenshots/mobile/knownhosts.png)
-
-### SSH
-
-- SSH connecting
-  ![ssh](./screenshots/mobile/ssh.png)
-
-- SSH terminal
-  ![terminal](./screenshots/mobile/terminal.png)
-
-### Settings
-
-- Settings
-  ![ssh](./screenshots/mobile/settings.png)
-
-### IAP
-
-- IAP
-  ![iap](./screenshots/mobile/iap.png)
+| Settings                                       | IAP                                  |
+| ---------------------------------------------- | ------------------------------------ |
+| ![settings](./screenshots/mobile/settings.png) | ![iap](./screenshots/mobile/iap.png) |
