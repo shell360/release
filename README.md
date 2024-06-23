@@ -4,50 +4,88 @@ This repository is mainly used to release versions of anysh， You can download 
 
 ## Features
 
-- Cross platform: support Windows, MacOS, Linux, Android and iOS (coming soon)
+- Cross platform: support Windows, MacOS, Linux, Android and iOS
 - Theme switching: supports light and dark themes.
 
-## Screenshots
+## Desktop Screenshots
 
 ### Hosts
 
 - Main page
-  ![hosts](./screenshots/hosts.png)
+  ![hosts](./screenshots/desktop/hosts.png)
 
 - Add host
-  ![addHost](./screenshots/addHost.png)
-
-- Edit host
-  ![editHost](./screenshots/editHost.png)
+  ![addHost](./screenshots/desktop/addHost.png)
 
 ### Keys
 
 - Main page
-  ![keys](./screenshots/keys.png)
+  ![keys](./screenshots/desktop/keys.png)
 
 - Add key
-  ![addKey](./screenshots/addKey.png)
-
-- Edit key
-  ![editKey](./screenshots/editKey.png)
+  ![addKey](./screenshots/desktop/addKey.png)
 
 - Generate key
-  ![generateKey](./screenshots/generateKey.png)
+  ![generateKey](./screenshots/desktop/generateKey.png)
 
 ### Known hosts
 
 - Main page
-  ![knownhosts](./screenshots/knownhosts.png)
+  ![knownhosts](./screenshots/desktop/knownhosts.png)
 
 ### SSH
 
 - SSH connecting
-  ![ssh](./screenshots/ssh.png)
+  ![ssh](./screenshots/desktop/ssh.png)
 
 - SSH terminal
-  ![terminal](./screenshots/terminal.png)
+  ![terminal](./screenshots/desktop/terminal.png)
 
-### Theme
+### Settings
 
-- Dark theme
-  ![darkTheme](./screenshots/darkTheme.png)
+- Settings
+  ![Settings](./screenshots/desktop/settings.png)
+
+## Mobile Screenshots
+
+### Hosts
+
+- Main page
+  ![hosts](./screenshots/mobile/hosts.png)
+
+- Add host
+  ![addHost](./screenshots/mobile/addHost.png)
+
+### Keys
+
+- Main page
+  ![keys](./screenshots/mobile/keys.png)
+
+- Add key
+  ![addKey](./screenshots/mobile/addKey.png)
+
+- Generate key
+  ![generateKey](./screenshots/mobile/generateKey.png)
+
+### Known hosts
+
+- Main page
+  ![knownhosts](./screenshots/mobile/knownhosts.png)
+
+### SSH
+
+- SSH connecting
+  ![ssh](./screenshots/mobile/ssh.png)
+
+- SSH terminal
+  ![terminal](./screenshots/mobile/terminal.png)
+
+### Settings
+
+- Settings
+  ![ssh](./screenshots/mobile/settings.png)
+
+### IAP
+
+- IAP
+  ![iap](./screenshots/mobile/iap.png)
