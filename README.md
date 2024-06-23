@@ -7,6 +7,11 @@ This repository is mainly used to release versions of anysh， You can download 
 - Cross platform: support Windows, MacOS, Linux, Android and iOS
 - Theme switching: supports light and dark themes.
 
+## Privacy Policy
+
+[Privacy Policy](./Privacy-Policy.md)
+[隐私政策](./Privacy-Policy-zh_CN.md)
+
 ## Desktop Screenshots
 
 ### Hosts
