@@ -12,6 +12,11 @@ This repository is mainly used to release versions of anysh， You can download 
 [Privacy Policy](./Privacy-Policy.md)
 [隐私政策](./Privacy-Policy-zh_CN.md)
 
+## Terms of Use
+
+[Terms of Use](./Terms-of-Use.md)
+[使用条款](./Terms-of-Use-zh_CN.md)
+
 ## Desktop Screenshots
 
 ### Hosts
