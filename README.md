@@ -2,6 +2,10 @@
 
 This repository is mainly used to release versions of anysh， You can download the latest version [here](https://github.com/shell360/release/releases). Shell360 is a cross-platform SSH client.
 
+<a href="https://apps.apple.com/app/shell360/id6502880351">
+  <img src="./Download-on-the-App-Store.svg" alt="Download on the App Store">
+</a>
+
 ## Features
 
 - Cross platform: support Windows, MacOS, Linux, Android and iOS
