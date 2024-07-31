@@ -55,6 +55,29 @@ This repository primarily serves to release updated versions of Shell360. You ca
 - SSH terminal
   ![terminal](./screenshots/desktop/terminal.png)
 
+### Terminal themes
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./screenshots/desktop/terminal-themes/terminal-theme-1.png" />
+      </td>
+      <td>
+        <img src="./screenshots/desktop/terminal-themes/terminal-theme-2.png" />
+      </td>
+    </tr>
+    <tr>
+        <td>
+          <img src="./screenshots/desktop/terminal-themes/terminal-theme-3.png" />
+        </td>
+        <td>
+          <img src="./screenshots/desktop/terminal-themes/terminal-theme-4.png" />
+        </td>
+      </tr>
+  </tbody>
+</table>
+
 ### Settings
 
 - Settings
@@ -64,24 +87,92 @@ This repository primarily serves to release updated versions of Shell360. You ca
 
 ### Hosts
 
-| Mainpage                                 | Add host                                     |
-| ---------------------------------------- | -------------------------------------------- |
-| ![hosts](./screenshots/mobile/hosts.png) | ![addHost](./screenshots/mobile/addHost.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Mainpage</th>
+      <th>Add host</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./screenshots/mobile/hosts.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/addHost.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Keys
 
-| Mainpage                               | Add key                                    | Generate key                                         |
-| -------------------------------------- | ------------------------------------------ | ---------------------------------------------------- |
-| ![keys](./screenshots/mobile/keys.png) | ![addKey](./screenshots/mobile/addKey.png) | ![generateKey](./screenshots/mobile/generateKey.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Mainpage</th>
+      <th>Add key</th>
+      <th>Generate key</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./screenshots/mobile/keys.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/addKey.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/generateKey.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Known hosts & SSH
 
-| Known hosts                                        | SSH connecting                       | SSH terminal                                   |
-| -------------------------------------------------- | ------------------------------------ | ---------------------------------------------- |
-| ![knownhosts](./screenshots/mobile/knownhosts.png) | ![ssh](./screenshots/mobile/ssh.png) | ![terminal](./screenshots/mobile/terminal.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Known hosts</th>
+      <th>SSH connecting</th>
+      <th>SSH terminal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./screenshots/mobile/knownhosts.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/ssh.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/terminal.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### Settings & IAP
 
-| Settings                                       | IAP                                  |
-| ---------------------------------------------- | ------------------------------------ |
-| ![settings](./screenshots/mobile/settings.png) | ![iap](./screenshots/mobile/iap.png) |
+<table>
+  <thead>
+    <tr>
+      <th>Settings</th>
+      <th>IAP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="./screenshots/mobile/settings.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/iap.png" />
+      </td>
+    </tr>
+  </tbody>
+</table>
