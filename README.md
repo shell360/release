@@ -2,7 +2,7 @@
 
 Shell360 is a cross-platform SSH client.
 
-This repository primarily serves to release updated versions of Shell360. You can download [the latest version](https://github.com/shell360/release/releases) from here. Furthermore, we warmly welcome your participation in our [TestFlight](https://testflight.apple.com/join/teqJZCRm) testing program.
+This repository primarily serves to release Shell360. You can download [the latest version](https://github.com/shell360/release/releases) from here. Additionally, you're welcome to participate in our [TestFlight](https://testflight.apple.com/join/teqJZCRm) testing program.
 
 <a href="https://apps.apple.com/app/shell360/id6502880351">
   <img src="./Download-on-the-App-Store.svg" alt="Download on the App Store">
