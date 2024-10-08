@@ -1,6 +1,6 @@
 # Shell360 Release
 
-Shell360 is a cross-platform SSH client.
+Shell360 is a cross-platform SSH and SFTP client.
 
 This repository primarily serves to release Shell360. You can download [the latest version](https://github.com/shell360/release/releases) from here. Additionally, you're welcome to participate in our [TestFlight](https://testflight.apple.com/join/teqJZCRm) testing program.
 
@@ -15,6 +15,7 @@ This repository primarily serves to release Shell360. You can download [the late
 - Theme switching: supports light and dark themes.
 - Import/Export App config.
 - Customize terminal: Supports 6 themes and customizable fonts
+- SFTP: Support SFTP client capabilities
 
 ## Privacy Policy
 
