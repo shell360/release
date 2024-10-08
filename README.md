@@ -15,7 +15,7 @@ This repository primarily serves to release Shell360. You can download [the late
 - Theme switching: supports light and dark themes.
 - Import/Export App config.
 - Customize terminal: Supports 6 themes and customizable fonts
-- SFTP: Support SFTP client capabilities
+- SFTP: Support SFTP client
 
 ## Privacy Policy
 
@@ -55,6 +55,11 @@ This repository primarily serves to release Shell360. You can download [the late
 
 - SSH terminal
   ![terminal](./screenshots/desktop/terminal.png)
+
+### SFTP
+
+- SFTP
+  ![SFTP](./screenshots/desktop/sftp.png)
 
 ### Terminal themes
 
@@ -132,7 +137,7 @@ This repository primarily serves to release Shell360. You can download [the late
   </tbody>
 </table>
 
-### Known hosts & SSH
+### Known hosts & SSH & SFTP
 
 <table>
   <thead>
@@ -140,6 +145,7 @@ This repository primarily serves to release Shell360. You can download [the late
       <th>Known hosts</th>
       <th>SSH connecting</th>
       <th>SSH terminal</th>
+      <th>SFTP</th>
     </tr>
   </thead>
   <tbody>
@@ -152,6 +158,9 @@ This repository primarily serves to release Shell360. You can download [the late
       </td>
       <td>
         <img src="./screenshots/mobile/terminal.png" />
+      </td>
+      <td>
+        <img src="./screenshots/mobile/sftp.png" />
       </td>
     </tr>
   </tbody>
