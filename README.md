@@ -11,11 +11,12 @@ This repository primarily serves to release Shell360. You can download [the late
 ## Features
 
 - Cross platform: support Windows, MacOS, Linux, Android and iOS.
+- SFTP: Support SFTP client
+- Port forwading: Support local port forwarding、remote port forwarding and dynamic port forwarding
 - SSH key: support ED25519、RSA、ECDSA SSH Key
 - Theme switching: supports light and dark themes.
 - Import/Export App config.
 - Customize terminal: Supports 6 themes and customizable fonts
-- SFTP: Support SFTP client
 
 ## Privacy Policy
 
